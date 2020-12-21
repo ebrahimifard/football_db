@@ -1,0 +1,2 @@
+# A Football League Database
+This project tries to simulate a database behind a football league. It covers all the entitities play roles in a football league from clubs and players to matches and seasons. The database design including the tables, fields, keys, and table relationships are elaborated in the ERD file. The actual creation of the database is happening in the Tables.sql where the tables are created and populated with some dummy data. There are also some samples queries in Sample_queries.sql file.
